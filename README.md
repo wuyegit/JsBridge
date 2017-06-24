@@ -1,4 +1,8 @@
 # JsBridge
+
+## todo
+参照 cordova 的方式进行模块划分，支持扩展性。
+
 ## 简介
 
 Android JsBridge 就是用来在 Android app的原生 java 代码与 javascript 代码中架设通信（调用）桥梁的辅助工具。 
